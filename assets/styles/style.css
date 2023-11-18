@@ -221,7 +221,7 @@ color:rgb(221, 12, 12);
 
 .row {
   display: flex;
-  flex-direction: row;
+  flex-direction: row
 }
 
 .menu-card img {
